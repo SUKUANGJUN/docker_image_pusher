@@ -1,4 +1,4 @@
-nginx
-python:3.7.17-alpine
-mysql:8.0.15
-redis
+python:3.8-slim-buster
+
+
+
